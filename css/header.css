@@ -1,0 +1,22 @@
+.header {
+    height: 800px;
+    width: 100%;
+    padding-top: 36px;
+    background-color: #f6e6d9;
+    background-image: url('../img/header-bg-1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.header-nav-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__button {
+    height: 66px;
+    padding: 0 38;
+    line-height: 66px;
+    background-color: #004cff;
+}
