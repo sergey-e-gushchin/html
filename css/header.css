@@ -41,8 +41,8 @@
     width: 5px;
     height: 5px;
     background-color: #004cff;
-
     transform: rotate(45deg);
+
 }
 
 .header__nav-link:last-child {
@@ -72,7 +72,6 @@
     text-decoration: none;
     transition: background-color 0.2s ease-in;
 }
-
 
 .header__button:hover {
     background-color: #2d6cff;
