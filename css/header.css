@@ -42,6 +42,7 @@
     height: 5px;
     background-color: #004cff;
     transform: rotate(45deg);
+
 }
 
 .header__nav-link:last-child {
